@@ -16,4 +16,4 @@ function diskCord () {
   document.getElementById('back').style.backgroundColor = 'red'
 }
 
-//change text & ackground colours through buttons & add warning button.
+// change text & ackground colours through buttons & add warning button.
